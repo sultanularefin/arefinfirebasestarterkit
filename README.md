@@ -21,9 +21,9 @@ This project is tentative.
 ### package.json added
 
 # Screenshots:
-![Firebase console](.\screenshots\firebase_console.png)
+![Firebase console](./screenshots/firebase_console.png)
 
-![Login Screen](.\screenshots\LoginScreen.png)
+![Login Screen](./screenshots\=/LoginScreen.png)
 
 
 
