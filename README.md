@@ -23,7 +23,7 @@ This project is tentative.
 # Screenshots:
 ![Firebase console](./screenshots/firebase_console.png)
 
-![Login Screen](./screenshots\=/LoginScreen.png)
+![Login Screen](./screenshots/LoginScreen.png)
 
 
 
