@@ -1,5 +1,8 @@
+# please check this link
+## https://github.com/sultanularefin/RN-Firebase-quick-bread
+
 # Produced with these packages:
-	"dependencies": {
+    "dependencies": {
     "@babel/polyfill": "^7.0.0",
     "@babel/runtime": "7.2.0",
     "docdash": "^0.4.0",
